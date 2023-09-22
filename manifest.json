@@ -1,6 +1,6 @@
 {
-    "name": "Encoder",
-    "short_name": "Confidential Chat",
+    "name": "encoder",
+    "short_name": "encoder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
